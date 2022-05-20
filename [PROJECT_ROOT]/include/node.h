@@ -1,4 +1,3 @@
-
 struct Node {
 
     char* data;
