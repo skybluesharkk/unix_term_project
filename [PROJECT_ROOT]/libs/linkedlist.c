@@ -1,4 +1,5 @@
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "linkedlist.h"
@@ -24,5 +25,6 @@ void delete(Node* head, Node* removed){
 		free(removed);
 	}
 }
+
 
 
