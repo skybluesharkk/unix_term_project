@@ -10,6 +10,7 @@ int main(void){
         //N개의 노래명 입력받기
     }
     fgetc('M', );
+    
     for(int i=0; i<M; i++){
         //M개의 명령어 입력받기
     }
