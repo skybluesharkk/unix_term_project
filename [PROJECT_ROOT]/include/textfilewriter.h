@@ -16,6 +16,8 @@ N+2 번째 줄에 명령어의 개수 M 이 주어진다. (1<=M<=50)
 
 N+3 번째 줄부터 M 개의 명령어가 주어진다.
  */
+
+
 void read_file(char* file_name){
     FILE *fp = fopen("read.txt", "rt");
     fgetc('N', fp);
